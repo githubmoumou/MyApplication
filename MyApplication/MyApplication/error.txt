@@ -1,0 +1,1 @@
+出现错误的地方在MyAdapter下面的getSize(),里面我用注释表过了，还有fragment_leave.java的btn_add的onclick方法，数据添加不上去。
